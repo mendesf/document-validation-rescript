@@ -1,0 +1,23 @@
+{
+  "gentypeconfig": {
+    "language": "typescript",
+    "shims": {},
+    "generatedFileExtension": ".gen.ts",
+    "module": "es6",
+    "debug": {
+      "all": false,
+      "basic": false
+    }
+  },
+  "name": "document-validation-rescript",
+  "sources": {
+    "dir": "src",
+    "subdirs": true
+  },
+  "package-specs": {
+    "module": "commonjs",
+    "in-source": true
+  },
+  "suffix": ".bs.js",
+  "bs-dependencies": []
+}
